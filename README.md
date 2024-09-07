@@ -17,3 +17,6 @@
 Теперь можно сделать коммит git commit -m 'First commit'.
 Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+Решение:
+[Ссылка на коммит:](https://github.com/anirisam1/hw-git-task-8-01/commit/8163687b665bdff3754c8a156c35ba5e5d2ed9c3)
