@@ -46,4 +46,4 @@
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 [Граф комитов:](https://github.com/anirisam1/hw-git-task-8-01/network)
-[скрин](https://github.com/anirisam1/hw-git-task-8-01/img/task8_network.png)
+![скрин](https://github.com/anirisam1/hw-git-task-8-01/img/task8_network.png)
